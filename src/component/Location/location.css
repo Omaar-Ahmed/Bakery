@@ -1,0 +1,34 @@
+.location
+{
+    background-color: #f8f8f8;
+    padding: 80px 0 ;
+    display: flex;
+    justify-content: center;
+
+}
+.location-content{
+    float: left;
+    width: 40%;
+    margin: 0 50px 0 0  ;
+    display: flex;
+    align-items: center;
+    
+
+}
+.location-img{
+    float: right;
+    width: 35%;
+    margin: 0 40px  ;
+}
+.location-img img {
+    width: 105%;
+}
+.location-content h2
+{
+    font-size: 35px ;
+}
+.location-content p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #686868;
+}

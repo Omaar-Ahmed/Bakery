@@ -1,0 +1,33 @@
+.baking {
+    text-align: center;
+    margin: 100px 0 ;
+}
+.baking h3 {
+    font-size: 35px;
+    
+}
+.baking p {
+    font-size: 18px;
+    color: #686868;
+}
+.item{
+    margin: auto;
+    width: 90%;
+    display: flex;  
+    justify-content: space-evenly;
+    margin:0 0 100px 100px ; 
+}
+.item-member {
+    width:  30%;
+}
+.item-member img {
+    width: 90%;
+}
+.item-member h4 {
+    font-size: 25px;
+}
+.item-member p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #686868;
+}

@@ -1,0 +1,39 @@
+
+
+.Home-page {
+  background-image: url(../../images/drew-coffman-1872.jpg);
+  height: 100vh;
+  background-position: center center;
+  background-size: 100% 100%;
+  font-family: "Courier New", Courier, monospace; 
+  overflow: auto;
+}
+.Home-content {
+  color: white;
+  width: 50%;
+  padding-top: 20px;
+
+}
+.Home-content p {
+  font-size: 24px;
+}
+.Home-content h1 {
+  font-size: 50px;
+}
+.Home-content button {
+  padding: 20px 30px;
+  margin: 10px 10px;
+  border-radius: 10px;
+}
+.learn-btn {
+  background-color: #8e7754;
+  color: white;
+  font-size: 18px;
+  border: none;
+}
+.contact-btn {
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+  border: white 1px solid;
+}
